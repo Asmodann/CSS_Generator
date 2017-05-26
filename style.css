@@ -1,0 +1,5 @@
+.green, .green_2, .green_4 { display: inline-block; background: url(sprite.png) no-repeat; }
+
+.green { background-position: -0px -0px;width: 256px;height: 256px; }
+.green_2 { background-position: -256px -0px;width: 256px;height: 256px; }
+.green_4 { background-position: -512px -0px;width: 256px;height: 256px; }
